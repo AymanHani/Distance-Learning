@@ -1,6 +1,6 @@
 # Distance-Learning
 ## Description: 
-### This project was designed by me for Distance learning.  
+#### This project was designed by me for Distance learning.  
 ## Techniques: 
 - HTML
 - HTML 5
